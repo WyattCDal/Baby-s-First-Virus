@@ -20,7 +20,7 @@ Expands and creates multiple windows to overload system memory.
 
 Python 3.x
 
-graphics.py library (Pre-Installed in the package, also available from John Zelle’s graphics module)
+graphics.py library (Pre-Installed in version releases, also available from John Zelle’s graphics module)
 
 Turn off Windows Virus and Threat Protection to run exe
 
