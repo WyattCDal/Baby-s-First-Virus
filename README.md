@@ -22,6 +22,8 @@ Python 3.x
 
 graphics.py library (Pre-Installed in the package, also available from John Zelle’s graphics module)
 
+Turn off Windows Virus and Threat Protection to run exe
+
 ## **🚀 Usage**
 
 Clone the repository:
@@ -34,7 +36,7 @@ cd Babys-First-Virus
 ```
 Run the script:
 ```
-py Babys-First-Virus.py
+start BabysFirstVirus.exe
 ```
 
 ## **⚠ Warning**
